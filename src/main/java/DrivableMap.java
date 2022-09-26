@@ -32,6 +32,7 @@ class DrivableMap {
             drivable_map.put(id, item);
             return true;
         }
+
         return false;
     }
 
